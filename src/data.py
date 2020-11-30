@@ -161,7 +161,7 @@ class Data(object):
                 assert(len(set(this_domain)) == self.domain_size)
                 assert(len(this_domain) == self.domain_size)
                 result[relation] = this_domain
-        for r in xrange(self.num_relation):
+        for r in range(self.num_relation):
             if r not in result.keys():
                 result[r] = np.random.choice(range(self.num_relation), 
                                              self.domain_size, 

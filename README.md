@@ -7,8 +7,7 @@ Ali Sadeghian, Mohammadreza Armandpour, Patrick Ding, Daisy Zhe Wang.
 NeurIPS 2019.
 
 ## Requirements
-- Python 2.7
-- I change its requirment from 2.7 to 3.6
+- Python 3.6
 - Numpy 
 - Tensorflow 1.13.1
 

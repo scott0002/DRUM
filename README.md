@@ -10,7 +10,8 @@ NeurIPS 2019.
 - Python 2.7
 - Numpy 
 - Tensorflow 1.13.1
-
+==========
+I change its requirment from 2.7 to 3.6
 ## Quick start
 The following command starts training a dataset about family relations, and stores the experiment results in the folder `exps/demo/`.
 
